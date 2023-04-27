@@ -39,6 +39,14 @@
       "image": "./assets/ramen/kojiro.jpg",
       "rating": 6,
       "comment": "Perfect for a cold night."
+    },
+    {
+      "name": "Kuro Ramen",
+      "restaurant": "Kuro Ramen",
+      "image": "https://s3.amazonaws.com/toasttab/menu_service/restaurants/d1e7d684-6340-4fe2-a31f-b2d5f3eb9809/MenuItem/9153aa4a-1783-47b9-91a3-8d9041735855.jpg",
+      "rating": "10",
+      "comment": "Tonkotsu(pork bone) broth ramen with secret house made black garlic oil.",
+      "id": 6
     }
   ]
 }
